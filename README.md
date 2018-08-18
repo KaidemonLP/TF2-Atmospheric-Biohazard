@@ -1,6 +1,6 @@
 # TF2-Atmospheric-Biohazard
 A objective based zombie fortress with special abilities for zombies.
-While also aiming to make a more Scary and Atmospheric.
+While also aiming to make it more Scary and Atmospheric.
 
 
 Map updates:
